@@ -2,6 +2,13 @@
 
 React components library for CareerCopilot, designed to be integrated into other repositories.
 
+## 📚 Documentation
+
+- **[Quick Start Guide](./QUICKSTART.md)** - Get started in 5 minutes
+- **[Examples](./EXAMPLES.md)** - Real-world usage examples
+- **[Integration Guide](./INTEGRATION.md)** - Detailed integration instructions
+- **[Contributing Guide](./CONTRIBUTING.md)** - How to add new components
+
 ## Installation
 
 To use this component library in another repository:
